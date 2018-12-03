@@ -1,0 +1,3 @@
+[submodule "dmsc-detector-interface"]
+	path = dmsc-detector-interface
+	url = https://github.com/icshwi/dmsc-detector-interface
